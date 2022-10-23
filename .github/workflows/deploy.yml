@@ -9,7 +9,7 @@ on:
 env:
   SERVER_HOST: 31.31.198.62
   SERVER_USER: u1812257
-  SERVER_PATH: /var/www/u1812257/data/www/plootony.online/projects/nc1
+  SERVER_PATH: /var/www/u1812257/data/www/plootony.online/
 
 jobs:
 
